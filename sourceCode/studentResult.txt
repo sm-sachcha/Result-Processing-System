@@ -1,0 +1,1 @@
+UserId: 1111 Quiz1: 12 Quiz2: 23 Viva: 21 Assignment: 21 Performance & Attendance: 23 Total Marks: 100
